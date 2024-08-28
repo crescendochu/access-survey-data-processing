@@ -1,0 +1,180 @@
+responseID,participantID,timestamp,mobilityAid,mobilityAidOther,mobilityAidFrequent,mobilityAidAnswered,mobilityAidUsed,ipSurvey,completionTime,screenWidth,screenHeight,currentStep,logType,email
+0,0,2024-07-28 18:27:04.130000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,24.19.104.188,19.23,1884,859,38,final,nursebeeker@gmail.com
+1,1,2024-07-27 00:22:46.946000+00:00,Manual wheelchair,,Manual wheelchair,"Manual wheelchair, Other, Walking cane","Walking cane, Manual wheelchair, Forearm crutches",67.161.109.23,17.56,1536,730,37,temp,rittersdorfinskey@gmail.com
+2,1,2024-07-27 17:43:54.701000+00:00,Other,Forearm crutches,Manual wheelchair,"Manual wheelchair, Other, Walking cane","Walking cane, Manual wheelchair, Forearm crutches",67.161.108.63,28701703.91,1536,730,38,final,rittersdorfinskey@gmail.com
+3,1,2024-07-27 17:36:20.442000+00:00,Walking cane,,Manual wheelchair,"Manual wheelchair, Other, Walking cane","Walking cane, Manual wheelchair, Forearm crutches",67.161.108.63,28701696.34,1536,730,37,CompletedOneMobilityAid,rittersdorfinskey@gmail.com
+4,2,2024-07-27 21:23:31.429000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,151.204.214.120,75.06,1440,900,35,temp,michael.i.starr@gmail.com
+5,3,2024-07-28 21:44:41.044000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,47.23.98.34,42.6,1232,598,38,final,bjlurie@gmail.com
+6,4,2024-07-29 13:44:09.045000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,73.233.21.184,11.31,414,721,38,final,Toniblakely208@gmail.com
+7,5,2024-07-29 18:44:30.230000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,137.83.218.121,16.58,2484,1250,38,final,aarond@mit.edu
+8,6,2024-08-04 19:39:40.112000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,173.233.98.4,14.34,1280,579,38,final,jsosa082@fiu.edu
+9,7,2024-07-30 13:55:40.487000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Walking cane, Manual wheelchair",75.68.189.206,15.21,1678,855,38,final,puck.doboe@gmail.com
+10,8,2024-08-05 20:39:26.632000+00:00,Walking cane,,Manual wheelchair,"Walking cane, Manual wheelchair","Walking cane, Manual wheelchair, Forearm crutch(es), mobility service dog, power assist for manual wheelchair",205.175.106.152,19.05,1536,695,38,final,tagreen2@uw.edu
+11,8,2024-08-05 20:31:07.029000+00:00,Manual wheelchair,,Manual wheelchair,"Walking cane, Manual wheelchair","Walking cane, Manual wheelchair, Forearm crutch(es), mobility service dog, power assist for manual wheelchair",205.175.106.152,10.72,1536,695,37,CompletedOneMobilityAid,tagreen2@uw.edu
+12,9,2024-08-02 21:20:48.338000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,208.91.45.86,13.4,1536,838,38,final,asz8152@g.rit.edu
+13,10,2024-08-04 03:34:12.153000+00:00,Other,hiking sticks / might use rolator soon ,Other,Other,"Walking cane, hiking sticks / might use rolator soon ",67.182.148.115,12.02,1366,633,37,CompletedOneMobilityAid,briarloging@gmail.com
+14,11,2024-08-05 21:11:34.606000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,104.28.57.244,23.07,430,739,38,final,lisha.m0817@gmail.com
+15,12,2024-08-05 16:02:09.519000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,57.135.108.138,16.84,2476,1292,38,final,xcore2@live.com
+16,13,2024-08-05 20:39:23.274000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Walking cane, Manual wheelchair",138.199.35.196,13.12,1920,945,38,final,wilflex17@gmail.com
+17,14,2024-08-05 18:38:24.981000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Walker, Manual wheelchair",104.28.32.209,61.77,430,739,38,final,ninabachich@gmail.com
+18,15,2024-08-06 00:32:00.807000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,192.152.152.82,11.61,418,855,38,final,mateobenjamin455097@gmail.com
+19,16,2024-08-06 06:36:12.778000+00:00,Mobility scooter,,Mobility scooter,Mobility scooter,"Mobility scooter, Manual wheelchair",99.93.63.238,22.14,414,714,38,final,floveth377@gmail.com
+20,17,2024-08-08 17:05:44.564000+00:00,Walking cane,,Walker,"Walking cane, Walker","Walking cane, Walker",73.254.31.139,17.82,1366,599,38,final,libertykarbala@gmail.com
+21,17,2024-08-08 16:58:51.653000+00:00,Walker,,Walker,"Walking cane, Walker","Walking cane, Walker",73.254.31.139,10.93,1366,599,37,CompletedOneMobilityAid,libertykarbala@gmail.com
+22,18,2024-08-06 06:56:09.627000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,"Walking cane, Motorized wheelchair",23.242.75.16,16.45,800,358,38,final,popoolamichael67@gmail.com
+23,19,2024-08-08 17:00:31.947000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,24.56.229.142,17.36,792,696,38,final,ugali90@aol.com
+24,20,2024-08-06 05:52:40.044000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,158.51.113.232,28.54,980,1612,38,final,tonyakpan45@gmail.com
+25,21,2024-08-06 05:48:02.466000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,67.160.23.43,28.14,1504,834,38,final,jajczay123@comcast.net
+26,22,2024-08-06 18:09:27.641000+00:00,Other,Rollator  walker with seat,Other,Other,Rollator  walker with seat,24.16.180.166,47.13,1366,857,38,final,Lindy53061@gmail.com
+27,23,2024-08-12 03:18:50.058000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,69.119.16.200,4389.43,1290,605,38,final,friendsmsgroup@gmail.com
+28,24,2024-08-08 05:21:23.015000+00:00,Walker,,Walker,"Walker, Manual wheelchair","Walker, Manual wheelchair",207.237.153.210,23.08,910,408,37,CompletedOneMobilityAid,sandnnicole@gmail.com
+29,24,2024-08-08 05:30:36.227000+00:00,Manual wheelchair,,Walker,"Walker, Manual wheelchair","Walker, Manual wheelchair",207.237.153.210,32.3,910,408,38,final,sandnnicole@gmail.com
+30,25,2024-08-07 06:06:06.289000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,172.92.151.219,19.8,1137,507,38,final,stupix@hotmail.com
+31,26,2024-08-10 21:46:49.812000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,67.171.30.148,3893.69,1280,693,38,final,pele_pete@yahoo.com
+32,27,2024-08-07 18:45:45.242000+00:00,Other,"A white, low-vision cane.",Other,Other,"A white, low-vision cane.",74.135.77.89,14.23,1427,701,38,final,jason.gunner.riley@gmail.com
+33,28,2024-08-08 04:50:22.747000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Manual wheelchair, Motorized wheelchair",70.137.105.55,22.26,1356,1022,38,final,jak606@gmail.com
+34,29,2024-08-08 17:23:32.856000+00:00,Walking cane,,Walking cane,Walking cane,"Walking cane, Walker, Motorized wheelchair",163.114.132.4,28718963.54,2580,1313,37,temp,jaymzmobile@gmail.com
+35,30,2024-08-10 22:59:23.760000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,73.239.179.18,28722179.39,2715,1455,38,final,dan_eberle@hotmail.com
+36,31,2024-08-08 23:27:05.230000+00:00,Mobility scooter,,Walker,"Mobility scooter, Walker","Walker, Mobility scooter",24.19.222.123,28719327.08,1180,713,38,final,Jogmaxwell@gmail.com
+37,31,2024-08-08 23:18:20.699000+00:00,Walker,,Walker,"Mobility scooter, Walker","Walker, Mobility scooter",24.19.222.123,28719318.34,1180,713,37,CompletedOneMobilityAid,Jogmaxwell@gmail.com
+38,32,2024-08-08 23:03:44.296000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,"Manual wheelchair, Motorized wheelchair",163.114.132.134,12.35,1920,959,37,temp,alicezhang05@gmail.com
+39,33,2024-08-10 01:08:22.593000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,68.183.132.92,38.34,1488,740,38,final,julishaqueenbee@gmail.com
+40,34,2024-08-09 22:04:42.775000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,73.134.235.66,20.76,1366,641,38,final,carolinawest34@gmail.com
+41,35,2024-08-10 09:16:40.164000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Walking cane, Manual wheelchair",99.93.63.160,29.06,980,2005,38,final,mandeladrake2683@gmail.com
+42,36,2024-08-09 22:06:39.257000+00:00,Walker,,Walker,Walker,Walker,146.70.25.197,24.25,980,1987,38,final,matthewoluwafemi60@gmail.com
+43,37,2024-08-10 01:36:04.069000+00:00,Walking cane,,Walking cane,"Walking cane, Walker","Walking cane, Walker, Motorized wheelchair",76.254.131.107,12.75,980,1786,37,CompletedOneMobilityAid,fabieneoin@gmail.com
+44,37,2024-08-10 01:43:49.063000+00:00,Walker,,Walking cane,"Walking cane, Walker","Walking cane, Walker, Motorized wheelchair",76.254.131.107,20.5,980,1786,38,final,fabieneoin@gmail.com
+45,38,2024-08-10 01:43:08.621000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,38.143.66.146,23.37,980,1731,38,final,issarahwalter@gmail.com
+46,39,2024-08-09 23:31:24.763000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,75.46.233.23,26.07,980,1772,38,final,makanteryty05@gmail.com
+47,40,2024-08-09 23:44:17.665000+00:00,Mobility scooter,,Mobility scooter,Mobility scooter,"Walker, Mobility scooter",100.10.29.216,19.47,891,1773,37,CompletedOneMobilityAid,danieljackson2026@gmail.com
+48,41,2024-08-10 18:50:14.156000+00:00,Walker,,Walker,"Walker, Walking cane","Walking cane, Walker",76.27.60.43,9.81,1920,945,37,CompletedOneMobilityAid,segould18@gmail.com
+49,41,2024-08-10 18:57:34.122000+00:00,Walking cane,,Walker,"Walker, Walking cane","Walking cane, Walker",76.27.60.43,17.14,1920,945,38,final,segould18@gmail.com
+50,42,2024-08-11 00:15:45.658000+00:00,Walking cane,,Walking cane,Walking cane,"Walking cane, Walker, Motorized wheelchair",136.34.7.124,11.19,980,1655,38,final,stevefrancis1702@gmail.com
+51,43,2024-08-11 00:34:52.840000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,"Walking cane, Walker, Motorized wheelchair",35.141.83.120,15.53,980,1655,38,final,abdullahimohammed1701@gmail.com
+52,44,2024-08-11 14:53:09.357000+00:00,Walking cane,,Walking cane,"Walking cane, Walker","Walking cane, Walker",102.91.4.10,76.71,980,1824,37,CompletedOneMobilityAid,angelajohn3739@gmail.com
+53,44,2024-08-11 17:54:56.215000+00:00,Walker,,Walking cane,"Walking cane, Walker","Walking cane, Walker",197.210.76.187,258.5,980,1824,38,final,angelajohn3739@gmail.com
+54,45,2024-08-10 16:39:45.247000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,76.88.90.95,16.54,1920,911,38,final,kiefujii08@gmail.com
+55,46,2024-08-11 17:43:31.661000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,92.223.30.135,54.55,980,1949,38,final,temitopejeffrey15@gmail.com
+56,47,2024-08-11 20:28:15.376000+00:00,Walker,,Walker,Walker,Walker,73.254.46.18,15.59,1536,730,38,final,llshoemaker66@gmail.com
+57,48,2024-08-16 14:50:15.831000+00:00,Walking cane,,Walking cane,Walking cane,"Walking cane, Walker, trek poles on sfter uneven surfaces",50.46.188.5,38.47,1418,604,38,final,lhratts@aol.com
+58,49,2024-08-12 07:27:02.794000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,"Walking cane, Walker, Motorized wheelchair",73.77.187.182,19.59,808,414,38,final,brianwest1285@gmail.com
+59,50,2024-08-12 05:52:27.031000+00:00,Walker,,Walking cane,"Walker, Motorized wheelchair, Walking cane","Walking cane, Walker, Motorized wheelchair",162.193.208.79,33.2,980,1707,37,CompletedOneMobilityAid,Wf86930@gmail.com
+60,50,2024-08-12 06:02:01.158000+00:00,Motorized wheelchair,,Walking cane,"Walker, Motorized wheelchair, Walking cane","Walking cane, Walker, Motorized wheelchair",162.193.208.79,42.78,980,1707,38,final,Wf86930@gmail.com
+61,50,2024-08-12 05:40:44.010000+00:00,Walking cane,,Walking cane,"Walker, Motorized wheelchair, Walking cane","Walking cane, Walker, Motorized wheelchair",162.193.208.79,21.45,980,1840,37,CompletedOneMobilityAid,Wf86930@gmail.com
+62,51,2024-08-12 10:03:52.689000+00:00,Mobility scooter,,Mobility scooter,Mobility scooter,Mobility scooter,66.67.66.168,21.65,980,1949,38,final,justicejamesx8@outlook.com
+63,52,2024-08-12 08:11:37.226000+00:00,Mobility scooter,,Mobility scooter,Mobility scooter,Mobility scooter,69.249.34.31,27.47,980,1949,38,final,shawnonsteriods00@gmail.com
+64,53,2024-08-13 04:00:30.626000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,76.254.131.57,16.57,980,1949,38,final,Nathanjnr201@outlook.com
+65,54,2024-08-13 11:22:42.023000+00:00,Walker,,Walker,Walker,Walker,74.97.35.29,38.07,894,1560,38,final,Wilsonnoralson@gmail.com
+66,55,2024-08-13 11:43:10.901000+00:00,Walking cane,,Walking cane,"Walking cane, Walker, Motorized wheelchair","Walking cane, Walker, Motorized wheelchair",74.93.59.222,32.84,980,1949,37,CompletedOneMobilityAid,robertlawrence20h@gmail.com
+67,55,2024-08-13 11:56:27.972000+00:00,Walker,,Walking cane,"Walking cane, Walker, Motorized wheelchair","Walking cane, Walker, Motorized wheelchair",74.93.59.222,46.36,980,1949,37,CompletedOneMobilityAid,robertlawrence20h@gmail.com
+68,55,2024-08-13 12:15:22.156000+00:00,Motorized wheelchair,,Walking cane,"Walking cane, Walker, Motorized wheelchair","Walking cane, Walker, Motorized wheelchair",74.93.59.222,63.94,980,1949,38,final,robertlawrence20h@gmail.com
+69,56,2024-08-13 15:16:39.079000+00:00,Motorized wheelchair,,Motorized wheelchair,"Motorized wheelchair, Mobility scooter","Walking cane, Mobility scooter, Manual wheelchair, Motorized wheelchair",64.20.149.132,14.76,980,1935,38,final,paulisley759@gmail.com
+70,56,2024-08-22 21:33:02.798000+00:00,Mobility scooter,,Motorized wheelchair,"Motorized wheelchair, Mobility scooter","Mobility scooter, Motorized wheelchair",64.223.239.149,28739373.29,980,1935,38,final,paulisley759@gmail.com
+71,57,2024-08-13 05:13:39.648000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,96.46.27.115,29.72,980,1805,38,final,caleboyenkachi@gmail.com
+72,58,2024-08-14 01:50:56.330000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,216.106.71.45,28.1,980,1949,38,final,jemeemkhalid@gmail.com
+73,59,2024-08-13 13:21:19.877000+00:00,Motorized wheelchair,,Motorized wheelchair,"Motorized wheelchair, Mobility scooter","Walking cane, Walker, Mobility scooter, Motorized wheelchair",192.81.113.20,40.24,980,1823,38,final,olasbeeana@gmail.com
+74,59,2024-08-20 09:57:28.643000+00:00,Mobility scooter,,Motorized wheelchair,"Motorized wheelchair, Mobility scooter","Mobility scooter, Motorized wheelchair",64.222.126.167,28735797.46,980,2068,38,final,olasbeeana@gmail.com
+75,60,2024-08-13 07:19:32.113000+00:00,Walker,,Walker,Walker,"Walking cane, Walker, Motorized wheelchair",73.158.143.108,163.08,980,1824,38,final,allimehate875@gmail.com
+76,61,2024-08-13 18:51:57.203000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,76.147.122.57,21.12,1920,1000,38,final,llhredmond@gmail.com
+77,62,2024-08-14 07:50:46.126000+00:00,Walker,,Walking cane,"Walker, Walking cane","Walking cane, Walker",67.170.74.131,16.3,980,2089,38,final,freedmancamila3@gmail.com
+78,62,2024-08-14 07:47:00.268000+00:00,Walking cane,,Walking cane,"Walker, Walking cane","Walking cane, Walker",67.170.74.131,12.52,980,2089,37,CompletedOneMobilityAid,freedmancamila3@gmail.com
+79,63,2024-08-14 15:15:46.723000+00:00,Walker,,Walker,"Walker, Mobility scooter","Walker, Mobility scooter",108.232.45.248,56.6,1318,612,38,final,Dawnbrotherton1966@gmail.com
+80,63,2024-08-22 15:54:45.012000+00:00,Mobility scooter,,Walker,"Walker, Mobility scooter","Walker, Mobility scooter",108.232.45.248,28739034.71,1318,610,38,final,Dawnbrotherton1966@gmail.com
+81,64,2024-08-14 17:09:06.037000+00:00,Walker,,Walker,Walker,"Walking cane, Walker",47.232.56.13,12.74,1318,612,38,final,Dovetail4250@gmail.com
+82,65,2024-08-15 13:01:57.423000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,174.28.25.192,26.8,1080,765,38,final,abunting32@gmail.com
+83,66,2024-08-14 21:40:54.082000+00:00,Mobility scooter,,Walking cane,"Mobility scooter, Motorized wheelchair, Walker, Walking cane","Walking cane, Walker, Mobility scooter, Motorized wheelchair",172.56.168.252,36.15,1024,1243,37,CompletedOneMobilityAid,1JulianneHansen@gmail.com
+84,66,2024-08-14 21:50:28.481000+00:00,Motorized wheelchair,,Walking cane,"Mobility scooter, Motorized wheelchair, Walker, Walking cane","Walking cane, Walker, Mobility scooter, Motorized wheelchair",172.56.168.252,45.72,1024,1243,38,final,1JulianneHansen@gmail.com
+85,66,2024-08-14 21:30:49.054000+00:00,Walker,,Walking cane,"Mobility scooter, Motorized wheelchair, Walker, Walking cane","Walking cane, Walker, Mobility scooter, Motorized wheelchair",172.56.168.252,26.06,1024,1243,37,CompletedOneMobilityAid,1JulianneHansen@gmail.com
+86,66,2024-08-14 21:19:28.700000+00:00,Walking cane,,Walking cane,"Mobility scooter, Motorized wheelchair, Walker, Walking cane","Walking cane, Walker, Mobility scooter, Motorized wheelchair",172.56.168.252,14.72,1024,1243,37,CompletedOneMobilityAid,1JulianneHansen@gmail.com
+87,67,2024-08-16 16:29:25.166000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Manual wheelchair, smart drive power assist",174.215.23.133,19.78,1504,876,38,final,damselmalone@gmail.com
+88,68,2024-08-14 20:16:51.446000+00:00,Other,Crutches,Other,Other,"Walking cane, Walker, Crutches",184.58.215.224,10.83,1064,1011,38,final,travis.lamensky@pbswisconsin.org
+89,69,2024-08-14 18:14:25.345000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,192.250.20.4,14.57,2018,979,38,final,jorr@uwhealth.org
+90,70,2024-08-14 18:28:46.846000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,128.104.109.125,25.49,1920,919,38,final,emvasys@wisc.edu
+91,71,2024-08-15 01:37:49.727000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,147.219.178.57,13.41,1912,956,38,final,elushaj@charter.net
+92,72,2024-08-14 18:21:05.236000+00:00,Other,crutches occasionally ,Other,Other,crutches occasionally ,128.104.27.161,14.2,1850,751,38,final,temellen@wisc.edu
+93,73,2024-08-14 21:56:04.386000+00:00,Walker,,Walker,Walker,Walker,128.104.82.233,216.06,1452,738,38,final,JANET.MITCHELL@WISC.EDU
+94,74,2024-08-14 18:24:42.715000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,50.93.222.197,18.11,2560,1305,38,final,afdickinson@wisc.edu
+95,75,2024-08-14 18:30:59.111000+00:00,Walking cane,,Walking cane,"Walking cane, Mobility scooter","Walking cane, Mobility scooter",99.126.182.132,29.56,1920,955,37,CompletedOneMobilityAid,kendi.parvin@gmail.com
+96,75,2024-08-14 18:50:11.602000+00:00,Mobility scooter,,Walking cane,"Walking cane, Mobility scooter","Walking cane, Mobility scooter",99.126.182.132,48.77,1920,955,38,final,kendi.parvin@gmail.com
+97,76,2024-08-15 04:26:04.013000+00:00,Manual wheelchair,,Walking cane,"Manual wheelchair, Walking cane","Walking cane, Manual wheelchair",128.92.111.101,13.77,1396,686,38,final,akin.shi@wisc.edu
+98,76,2024-08-15 04:23:00.114000+00:00,Walking cane,,Walking cane,"Manual wheelchair, Walking cane","Walking cane, Manual wheelchair",128.92.111.101,10.7,1396,686,37,CompletedOneMobilityAid,akin.shi@wisc.edu
+99,77,2024-08-14 18:16:24.746000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,144.92.11.242,10.63,1920,911,38,final,dani.langston@wisc.edu
+100,78,2024-08-14 18:57:15.140000+00:00,Walker,,Walker,"Walker, Mobility scooter","Walker, Mobility scooter",198.27.63.246,11.15,1349,707,38,final,glandrum@wisc.edu
+101,78,2024-08-23 15:55:37.157000+00:00,Mobility scooter,,Walker,"Walker, Mobility scooter","Walker, Mobility scooter",198.27.63.246,28740475.62,1349,706,38,final,glandrum@wisc.edu
+102,79,2024-08-14 18:17:33.472000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,68.117.135.193,17.77,1536,710,38,final,Rosalez@wisc.edu
+103,80,2024-08-14 19:28:10.703000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,144.92.31.226,12.8,1232,596,38,final,ctobin2@wisc.edu
+104,81,2024-08-14 20:23:30.187000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,69.21.74.188,17.96,1912,1078,38,final,churtenb@wisc.edu
+105,82,2024-08-14 19:07:24.402000+00:00,Walking cane,,Walking cane,Walking cane,"Walking cane, Walker",144.92.55.136,11.86,1872,1076,38,final,paineac@charter.net
+106,83,2024-08-14 21:07:32.670000+00:00,Walker,,Manual wheelchair,"Walker, Manual wheelchair","Walker, Manual wheelchair",23.115.128.148,20.81,1439,697,38,final,Madeline.maria.reyes@gmail.com
+107,83,2024-08-14 21:00:34.971000+00:00,Manual wheelchair,,Manual wheelchair,"Walker, Manual wheelchair","Walker, Manual wheelchair",23.115.128.148,13.85,1439,697,37,CompletedOneMobilityAid,Madeline.maria.reyes@gmail.com
+108,84,2024-08-14 21:43:57.364000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,108.233.152.75,29.08,1440,779,38,final,mewingjr2@gmail.com
+109,85,2024-08-16 13:58:14.478000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,128.104.109.66,19.47,1389,674,38,final,ecmclimans@wisc.edu
+110,86,2024-08-15 21:30:39.588000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,144.92.194.69,15.72,1920,899,38,final,dmwilkinson@wisc.edu
+111,87,2024-08-16 00:54:55.878000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Mobility scooter, Manual wheelchair",50.93.222.110,36.76,1369,724,38,final,cssquiresjr@gmail.com
+112,88,2024-08-15 00:56:17.214000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,147.219.11.153,14.51,1470,840,38,final,dr.nbasha88@icloud.com
+113,89,2024-08-18 20:14:49.653000+00:00,Walker,,Walker,Walker,Walker,96.41.232.229,27.76,1275,606,38,final,perezm44@yahoo.com
+114,90,2024-08-14 21:56:05.453000+00:00,Walking cane,,Other,"Walking cane, Mobility scooter, Other","Walking cane, Mobility scooter, Sometimes a crutch or both crutches",147.219.145.205,28.68,1324,763,37,CompletedOneMobilityAid,baileygetter@icloud.com
+115,90,2024-08-14 22:06:26.914000+00:00,Mobility scooter,,Other,"Walking cane, Mobility scooter, Other","Walking cane, Mobility scooter, Sometimes a crutch or both crutches",147.219.145.205,39.04,1324,763,38,final,baileygetter@icloud.com
+116,90,2024-08-14 21:44:55.221000+00:00,Other,Sometimes a crutch or both crutches,Other,"Walking cane, Mobility scooter, Other","Walking cane, Mobility scooter, Sometimes a crutch or both crutches",147.219.145.205,17.51,1324,763,37,CompletedOneMobilityAid,baileygetter@icloud.com
+117,91,2024-08-14 21:00:51.168000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,63.162.126.101,25.88,1391,823,38,final,squigle@panix.com
+118,92,2024-08-14 20:33:01.711000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,72.33.2.249,13.41,1423,729,38,final,jlkoehler3@wisc.edu
+119,93,2024-08-15 21:32:34.495000+00:00,Walker,,Walker,Walker,Walker,128.104.131.141,13.64,1312,739,38,final,mtsai39@wisc.edu
+120,94,2024-08-16 23:04:50.576000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,69.131.92.239,13.8,1368,751,38,final,mike.avery@housing.wisc.edu
+121,95,2024-08-15 18:51:23.711000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,146.70.25.212,45.75,980,2002,38,final,michaelrichard60613@gmail.com
+122,96,2024-08-15 17:43:03.182000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,72.33.0.79,98.79,1247,540,38,final,esjackson2@wisc.edu
+123,97,2024-08-17 03:17:54.559000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,174.229.116.229,236.64,414,712,38,final,bkotten@wisc.edu
+124,98,2024-08-19 00:34:56.697000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,"Manual wheelchair, Motorized wheelchair",66.216.248.131,29.31,1536,835,38,final,bethanyfoeller@yahoo.com
+125,99,2024-08-16 15:01:44.669000+00:00,Mobility scooter,,Walking cane,"Mobility scooter, Walker, Walking cane","Walking cane, Walker, Mobility scooter",172.220.64.169,40.54,1219,620,38,final,ingridthecrafty@yahoo.com
+126,99,2024-08-16 14:52:03.351000+00:00,Walker,,Walking cane,"Mobility scooter, Walker, Walking cane","Walking cane, Walker, Mobility scooter",172.220.64.169,30.85,1219,620,37,CompletedOneMobilityAid,ingridthecrafty@yahoo.com
+127,99,2024-08-16 14:38:48.161000+00:00,Walking cane,,Walking cane,"Mobility scooter, Walker, Walking cane","Walking cane, Walker, Mobility scooter",172.220.64.169,17.6,1219,620,37,CompletedOneMobilityAid,ingridthecrafty@yahoo.com
+128,100,2024-08-18 02:26:45.128000+00:00,Mobility scooter,,Mobility scooter,Mobility scooter,Mobility scooter,99.62.234.59,35.27,1092,453,38,final,an.overcoat.of.clay@gmail.com
+129,101,2024-08-16 23:57:07.277000+00:00,Walker,,Walker,Walker,Walker,68.56.145.123,37.85,1255,672,38,final,kramertoni@gmail.com
+130,102,2024-08-20 07:41:40.699000+00:00,Mobility scooter,,Walker,"Mobility scooter, Walker, Walking cane","Walker, Mobility scooter",162.243.90.5,28735661.66,980,2088,38,final,dariusbibletkg56@gmail.com
+131,102,2024-08-16 08:38:18.594000+00:00,Walker,,Walker,"Mobility scooter, Walker, Walking cane","Walking cane, Walker, Mobility scooter",162.243.99.10,20.38,980,2088,37,CompletedOneMobilityAid,dariusbibletkg56@gmail.com
+132,102,2024-08-16 08:50:08.133000+00:00,Walking cane,,Walker,"Mobility scooter, Walker, Walking cane","Walking cane, Walker, Mobility scooter",162.243.99.10,32.21,980,2088,38,final,dariusbibletkg56@gmail.com
+133,103,2024-08-16 11:06:38.212000+00:00,Mobility scooter,,Mobility scooter,Mobility scooter,"Walker, Mobility scooter",147.219.87.9,16.57,1180,689,37,CompletedOneMobilityAid,Stritzeljan@gmail.com
+134,104,2024-08-16 14:34:51.783000+00:00,Other,Rollator,Other,Other,Rollator,172.59.172.10,24.79,1536,739,38,final,drene.powell@gmail.com
+135,105,2024-08-18 21:12:27.113000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,23.93.80.216,17.71,1559,870,38,final,jang@adapacific.org
+136,106,2024-08-18 22:19:44.117000+00:00,Walking cane,,Motorized wheelchair,"Walking cane, Motorized wheelchair, Other","Walking cane, Motorized wheelchair, service dog for mobility ",24.159.227.237,20.69,1528,740,37,CompletedOneMobilityAid,talthoff@outlook.com
+137,106,2024-08-18 22:13:32.008000+00:00,Motorized wheelchair,,Motorized wheelchair,"Walking cane, Motorized wheelchair, Other","Walking cane, Motorized wheelchair, service dog for mobility ",24.159.227.237,14.49,1528,740,37,CompletedOneMobilityAid,talthoff@outlook.com
+138,106,2024-08-18 22:28:18.489000+00:00,Other,service dog for mobility ,Motorized wheelchair,"Walking cane, Motorized wheelchair, Other","Walking cane, Motorized wheelchair, service dog for mobility ",24.159.227.237,29.26,1528,740,38,final,talthoff@outlook.com
+139,107,2024-08-18 09:47:13.746000+00:00,Walker,,Walker,Walker,Walker,67.20.139.76,66.85,891,1485,38,final,liamthompson0205@gmail.com
+140,108,2024-08-19 19:06:09.185000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,173.63.187.235,10.32,1382,685,38,final,emlad729@gmail.com
+141,109,2024-08-19 20:01:20.402000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,68.129.14.51,45.89,853,367,38,final,erklad61@aoal.com
+142,110,2024-08-20 20:26:02.958000+00:00,Walking cane,,Manual wheelchair,"Walking cane, Walker, Manual wheelchair","Walking cane, Walker, Manual wheelchair",144.92.135.66,25.69,1440,779,37,CompletedOneMobilityAid,gierszal@wisc.edu
+143,110,2024-08-20 20:32:54.402000+00:00,Walker,,Manual wheelchair,"Walking cane, Walker, Manual wheelchair","Walking cane, Walker, Manual wheelchair",144.92.135.66,32.55,1440,779,38,final,gierszal@wisc.edu
+144,110,2024-08-20 20:15:09.335000+00:00,Manual wheelchair,,Manual wheelchair,"Walking cane, Walker, Manual wheelchair","Walking cane, Walker, Manual wheelchair",144.92.135.66,14.79,1440,779,37,CompletedOneMobilityAid,gierszal@wisc.edu
+145,111,2024-08-24 02:28:51.108000+00:00,Mobility scooter,,Walker,"Mobility scooter, Walker","Walker, Mobility scooter",74.37.232.66,28741108.84,393,659,38,final,sarahlav@hotmail.com
+146,111,2024-08-20 21:54:01.971000+00:00,Walker,,Walker,"Mobility scooter, Walker","Walker, Mobility scooter",24.196.121.149,37.1,1360,607,38,final,sarahlav@hotmail.com
+147,112,2024-08-25 18:20:56.066000+00:00,Mobility scooter,,Walking cane,"Mobility scooter, Walking cane","Walking cane, Mobility scooter",144.92.108.14,28743500.93,937,382,38,final,lmmichael@wisc.edu
+148,112,2024-08-22 00:53:51.052000+00:00,Walking cane,,Walking cane,"Mobility scooter, Walking cane","Walking cane, Walker, Mobility scooter",144.92.108.2,1738.3,956,381,37,temp,lmmichael@wisc.edu
+149,113,2024-08-15 14:58:21.700000+00:00,Walking cane,,Walking cane,"Walking cane, Walker","Walking cane, Walker, Motorized wheelchair",96.87.67.41,24.02,980,1949,37,CompletedOneMobilityAid,Giftjesse131@gmail.com
+150,113,2024-08-15 15:10:41.430000+00:00,Walker,,Walking cane,"Walking cane, Walker","Walking cane, Walker, Motorized wheelchair",96.87.67.41,39.59,980,1949,37,CompletedOneMobilityAid,Giftjesse131@gmail.com
+151,114,2024-08-15 20:16:46.962000+00:00,Walker,,Walker,"Walker, Motorized wheelchair, Manual wheelchair","Walker, Manual wheelchair, Motorized wheelchair",107.133.177.148,329.6,1920,911,37,CompletedOneMobilityAid,ajkesler@gmail.com
+152,114,2024-08-15 20:30:28.575000+00:00,Motorized wheelchair,,Walker,"Walker, Motorized wheelchair, Manual wheelchair","Walker, Manual wheelchair, Motorized wheelchair",107.133.177.148,343.29,1920,911,38,final,ajkesler@gmail.com
+153,114,2024-08-15 20:23:39.561000+00:00,Manual wheelchair,,Walker,"Walker, Motorized wheelchair, Manual wheelchair","Walker, Manual wheelchair, Motorized wheelchair",107.133.177.148,336.47,1920,911,37,CompletedOneMobilityAid,ajkesler@gmail.com
+154,115,2024-08-20 22:50:32.511000+00:00,Walking cane,,Walking cane,Walking cane,"Walking cane, Manual wheelchair",24.178.40.29,18.9,1280,567,38,final,aaruby@wisc.edu
+155,116,2024-08-15 16:30:49.882000+00:00,Other,Forearm Crutches,Other,Other,Forearm Crutches,96.60.247.149,28728990.81,1536,711,38,final,crafted_by_cassie@yahoo.com
+156,117,2024-08-11 20:16:20.353000+00:00,Walker,,Walker,Walker,Walker,147.253.233.241,47.34,980,2001,38,final,jamesrobert303160@gmail.com
+157,118,2024-08-15 14:22:08.507000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,24.159.245.109,25.45,1920,955,38,final,jaellenbecke@wisc.edu
+158,119,2024-08-20 15:07:00.817000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,144.92.31.234,17.73,1920,927,38,final,jaheaton@wisc.edu
+159,120,2024-08-16 03:36:44.670000+00:00,Other,walking stick (less stigma than a cane) not unlike a staff that Moses used!! ,Other,Other,"Walking cane, walking stick (less stigma than a cane) not unlike a staff that Moses used!! ",184.59.31.3,2013.91,1536,695,38,final,Mpbehar@wisc.edu
+160,121,2024-08-22 21:54:52.241000+00:00,Mobility scooter,,Motorized wheelchair,"Mobility scooter, Motorized wheelchair","Mobility scooter, Motorized wheelchair",71.161.206.216,28739395.15,980,2075,38,final,petamabima10@gmail.com
+161,121,2024-08-13 14:54:43.754000+00:00,Motorized wheelchair,,Motorized wheelchair,"Mobility scooter, Motorized wheelchair","Walking cane, Mobility scooter, Motorized wheelchair",204.116.137.154,13.66,980,1935,38,final,petamabima10@gmail.com
+162,122,2024-08-16 08:29:07.343000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,108.221.42.120,20.47,980,1911,38,final,greenpam94@gmail.com
+163,123,2024-08-13 04:33:24.137000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,174.126.149.195,12.38,980,1655,38,final,peterjacob1702@gmail.com
+164,124,2024-08-14 20:27:45.008000+00:00,Motorized wheelchair,,Walking cane,"Motorized wheelchair, Walking cane","Walking cane, Motorized wheelchair",208.190.139.131,42.33,1439,745,38,final,rejones5@wisc.edu
+165,124,2024-08-14 20:11:46.056000+00:00,Walking cane,,Walking cane,"Motorized wheelchair, Walking cane","Walking cane, Motorized wheelchair",208.190.139.131,26.35,1439,745,37,CompletedOneMobilityAid,rejones5@wisc.edu
+166,125,2024-08-21 01:42:44.586000+00:00,Motorized wheelchair,,Motorized wheelchair,"Motorized wheelchair, Manual wheelchair","Manual wheelchair, Motorized wheelchair",73.35.145.88,81.13,904,1035,37,CompletedOneMobilityAid,rebecca_medrano@hotmail.com
+167,125,2024-08-21 02:17:20.910000+00:00,Manual wheelchair,,Motorized wheelchair,"Motorized wheelchair, Manual wheelchair","Manual wheelchair, Motorized wheelchair",73.35.145.88,115.74,810,966,38,final,rebecca_medrano@hotmail.com
+168,126,2024-08-13 07:07:07.997000+00:00,Motorized wheelchair,,Motorized wheelchair,"Motorized wheelchair, Manual wheelchair","Manual wheelchair, Motorized wheelchair",66.176.59.164,13.2,980,1944,38,final,samuelsamson2207@gmail.com
+169,126,2024-08-13 07:15:35.592000+00:00,Manual wheelchair,,Motorized wheelchair,"Motorized wheelchair, Manual wheelchair","Manual wheelchair, Motorized wheelchair",66.176.59.164,28725555.58,980,2096,38,final,samuelsamson2207@gmail.com
+170,127,2024-08-14 21:15:31.573000+00:00,Other,"Knee scooter for long distances and a permanent walking boot.  (Through out my life I have used many mobile devices, inside ant out (manual wheelchair, walker, crutches, and the mentioned knee scooter)",Other,Other,"Knee scooter for long distances and a permanent walking boot.  (Through out my life I have used many mobile devices, inside ant out (manual wheelchair, walker, crutches, and the mentioned knee scooter)",144.92.108.6,33.74,1920,919,38,final,sahendricks2@wisc.edu
+171,128,2024-08-13 04:34:01.024000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,"Walking cane, Walker, Motorized wheelchair",24.13.80.55,10.82,980,1824,38,final,stuartluna33@gmail.com
+172,129,2024-08-21 02:18:30.766000+00:00,Walker,,Walking cane,"Walker, Walking cane","Walking cane, Walker",107.130.248.188,17.49,1211,962,38,final,syonas@bbyo.org
+173,129,2024-08-21 02:11:53.192000+00:00,Walking cane,,Walking cane,"Walker, Walking cane","Walking cane, Walker",107.130.248.188,10.86,1211,962,37,CompletedOneMobilityAid,syonas@bbyo.org
+174,130,2024-08-21 02:22:25.682000+00:00,Manual wheelchair,,Manual wheelchair,Manual wheelchair,Manual wheelchair,173.52.196.184,20.3,1536,738,38,final,hattbandrzej11@gmail.com
+175,131,2024-08-21 03:32:30.125000+00:00,Motorized wheelchair,,Motorized wheelchair,Motorized wheelchair,Motorized wheelchair,24.183.32.65,31.41,1638,952,38,final,smdevoswisc@gmail.com
+176,132,2024-08-22 14:06:05.089000+00:00,Walker,,Walker,Walker,"Walking cane, Walker, Manual wheelchair",75.6.180.115,15.7,744,1026,38,final,hlkauffman@att.net
+177,133,2024-08-23 20:06:38.175000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,67.2.168.77,14.21,980,2025,38,final,milesjason726@gmail.com
+178,134,2024-08-27 03:45:18.821000+00:00,Walking cane,,Walking cane,Walking cane,Walking cane,72.197.37.101,18.34,1400,738,38,final,mleshc15@gmail.com
